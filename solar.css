@@ -1,0 +1,118 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#sun{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(230,232,15,0.950);
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -50px 0 0 -50px;
+    align-content: center;
+    color: white;
+    box-shadow: 0px 0px 110px orangered;
+}
+
+.planet{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    color: blue;
+}
+
+#mercury{
+    background-color: grey;
+    left: 100px;
+    width: 45px;
+    height: 45px;
+    box-shadow: 0px 0px 10px white;
+}
+
+#venus{
+    background-color: orange;
+    left: 150px;
+    width: 30px;
+    height: 30px;
+    box-shadow: 0px 0px 12px white ;
+
+}
+
+#earth{
+    background-color: blue;
+    left: 200px;
+    width: 35px;
+    height: 30px;
+    box-shadow: 0px 0px 15px white;
+}
+#mars{
+    background-color: red;
+    left:250px ;
+    width:40px;
+    height:35px;
+    box-shadow: 0px 0px 14px white;
+}
+
+#jupiter{
+    background-color: brown;
+    left: 300px;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0px 0px 20px white;
+}
+#saturn{
+    background-color: yellow;
+    left: 400px;
+    width: 50px ;
+    height: 40px;
+    box-shadow: 0px 0px 15px white;
+}
+#uranus{
+    background-color: lightgreen;
+    left: 500px;
+    width: 30px;
+    height: 30px;
+    box-shadow: 0px 0px 18px white;
+}
+#neptune{
+    background-color: darkblue;
+    left: 550px;
+    width:25px ;
+    height: 25px;
+    box-shadow: 0px 0px 16px white;
+}
+#pluto{
+    background-color: lightsalmon;
+    left: 600px;
+    width: 20px;
+    height: 20px;
+    box-shadow: 0px 0px 14px white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
